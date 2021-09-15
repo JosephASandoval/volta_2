@@ -1,0 +1,10 @@
+node_modules/
+bundle.js*
+/public
+/tmp
+/log
+/lib
+/test
+/storage
+/vendor
+.DS_Store
